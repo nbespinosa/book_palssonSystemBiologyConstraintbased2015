@@ -1,2 +1,3 @@
-# book_palssonSystemBiologyConstraintbased2015
-A hub for discussions about reading 'Palsson, System Biology - Constraint-Based Reconstruction and Analysis.'
+# Systems Biology: Constraint-Based Reconstruction and Analysis
+
+A hub for discussions about reading 'Palsson, Bernhard. Systems Biology: Constraint-Based Reconstruction and Analysis. Cambridge, United Kingdom: Cambridge University Press, 2015'.
